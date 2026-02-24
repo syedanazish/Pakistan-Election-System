@@ -1,7 +1,7 @@
 # Pakistan-Election-System
-Pakistan Election System  A Java-based Election Management System developed in NetBeans with MySQL integration. The system manages voters, political parties, and candidates through a normalized relational database. 
+Pakistan Election System:  A Java-based Election Management System developed in NetBeans with MySQL integration. The system manages voters, political parties, and candidates through a normalized relational database. 
 
-Features
+Features:
 
 CRUD operations for Voters, Parties, and Candidates
 
@@ -11,7 +11,7 @@ SQL query execution for data management
 
 Interactive Java Swing GUI
 
-Technologies Used
+Technologies Used:
 
 Java (NetBeans IDE)
 
@@ -21,7 +21,7 @@ JDBC Connectivity
 
 Socket Programming
 
-Purpose
+Purpose:
 
 This project was developed to demonstrate concepts of:
 
